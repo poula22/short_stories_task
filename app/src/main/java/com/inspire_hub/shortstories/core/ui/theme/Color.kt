@@ -1,4 +1,4 @@
-package com.inspire_hub.shortstories.ui.theme
+package com.inspire_hub.shortstories.core.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
